@@ -1,4 +1,4 @@
-# IBM Data Analysis with Python (Course 6)
+# MBI Data Analysis with Python (Course 6)
 
 This repository contains my work for IBM’s "Data Analysis with Python" course on Coursera.  
 It includes notebooks, datasets, and notes from each week.
